@@ -27,7 +27,14 @@ Einfache Bedienung, dunkles Design und klar strukturierte Aufgabenverwaltung.
 ## 📦 Installation
 
 ### 1. Repository klonen
+### 2. Node.js-Abhängigkeiten installieren
+### 3. App bauen (EXE für Windows)
+
 
 ```bash
 git clone https://github.com/deinusername/todo-app.git
 cd todo-app
+
+npm install
+
+npm run dist
