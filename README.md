@@ -30,7 +30,6 @@ Einfache Bedienung, dunkles Design und klar strukturierte Aufgabenverwaltung.
 ### 2. Node.js-Abhängigkeiten installieren
 ### 3. App bauen (EXE für Windows)
 
-
 ```bash
 git clone https://github.com/deinusername/todo-app.git
 cd todo-app
