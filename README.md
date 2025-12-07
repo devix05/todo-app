@@ -1,34 +1,36 @@
 # 📝 ToDo-App
 
-Eine moderne und einfache ToDo-App mit **Electron**.  
-Füge Aufgaben hinzu, markiere sie als erledigt und lösche sie wieder – alles in einer schlanken, dunklen Oberfläche.  
+Eine moderne ToDo-App gebaut mit **Electron**.  
+Einfache Bedienung, dunkles Design und klar strukturierte Aufgabenverwaltung.
 
-![Screenshot der App](app.png)
-
----
-
-## Features
-
-- Aufgaben hinzufügen
-- Aufgaben als erledigt markieren (grün durchgestrichen)
-- Einzelne Aufgaben löschen
-- Dunkles, modernes Design
-- Input-Feld und „Hinzufügen“-Button nebeneinander
-- Scrollbarer Aufgabenbereich
-- Menüleiste oben standardmäßig ausgeblendet
+![Screenshot](app.png) 
 
 ---
 
-## Voraussetzungen
+## ✔️ Features (Was funktioniert)
 
-- [Node.js](https://nodejs.org/) >= 18
-- [npm](https://www.npmjs.com/) (wird mit Node.js installiert)
+- ✔️ Aufgaben hinzufügen  
+- ✔️ Aufgaben als erledigt markieren (grün + durchgestrichen)  
+- ✔️ Aufgaben einzeln löschen  
+- ✔️ Hübsches Dunkel-Design  
+- ✔️ Scrollbarer Aufgabenbereich  
+- ✔️ Menüleiste oben ausgeblendet  
+- ✔️ „Hinzufügen“-Button neben dem Eingabefeld  
+- ✔️ Lässt sich als EXE bauen (Windows)
 
 ---
 
-## Installation & Nutzung
+## ❌ Noch nicht funktionierende Features
 
-1. **Repository klonen**
+- ❌ **Dauerhaftes Speichern der Aufgaben funktioniert aktuell NICHT**  
+  Beim Neustarten der App werden alle Aufgaben **noch nicht geladen**.  
+  (Wird in einer zukünftigen Version behoben.)
+
+---
+
+## 📦 Installation
+
+### 1. Repository klonen
 
 ```bash
 git clone https://github.com/deinusername/todo-app.git
