@@ -7,15 +7,11 @@ Einfache Bedienung, dunkles Design und klar strukturierte Aufgabenverwaltung.
 
 ---
 
-## ✔️ Features (Was funktioniert)
+## ✔️ Features
 
 - ✔️ Aufgaben hinzufügen  
 - ✔️ Aufgaben als erledigt markieren (grün + durchgestrichen)  
-- ✔️ Aufgaben einzeln löschen  
-- ✔️ Hübsches Dunkel-Design  
-- ✔️ Scrollbarer Aufgabenbereich  
-- ✔️ Menüleiste oben ausgeblendet  
-- ✔️ „Hinzufügen“-Button neben dem Eingabefeld  
+- ✔️ Aufgaben einzeln löschen   
 - ✔️ Lässt sich als EXE bauen (Windows)
 
 ---
