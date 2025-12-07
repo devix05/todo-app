@@ -31,7 +31,7 @@ Einfache Bedienung, dunkles Design und klar strukturierte Aufgabenverwaltung.
 ### 3. App bauen (EXE für Windows)
 
 ```bash
-git clone https://github.com/deinusername/todo-app.git
+git clone https://github.com/devix05/todo-app.git
 cd todo-app
 
 npm install
