@@ -3,7 +3,7 @@
 Eine moderne ToDo-App gebaut mit **Electron**.  
 Einfache Bedienung, dunkles Design und klar strukturierte Aufgabenverwaltung.
 
-![Screenshot](app.png) 
+![Screenshot](ToDoApp/todo-app/app.png) 
 
 ---
 
